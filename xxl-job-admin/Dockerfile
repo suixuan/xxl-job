@@ -1,4 +1,4 @@
-FROM openjdk:8-jre-slim
+FROM heliang230/centos:7.5.1804
 MAINTAINER xuxueli
 
 ENV PARAMS=""
